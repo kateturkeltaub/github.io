@@ -6,4 +6,4 @@ kateturkeltaub.github.io
 
 ![Where do most Lehigh University undergraduate students live?](https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/students%20live.png?raw=true)
 Where do most Lehigh University undergraduate students live?
-This is an infographic illustrating where undergraduate students at Lehigh live, whether that me on-campus or off-campus. You can find the original data [HERE](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
+This is an infographic illustrating where undergraduate students at Lehigh live, whether that be on-campus or off-campus. You can find the original data [HERE](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
