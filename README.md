@@ -4,4 +4,4 @@ kateturkeltaub.github.io
 
 [MY LINKED-IN](https://www.linkedin.com/in/kate-turkeltaub-0b199213a/)
 
-![Where do most Lehigh University undergraduate students live?](https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/students%20live.png?raw=true){width=50%}
+![Where do most Lehigh University undergraduate students live?](https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/students%20live.png?raw=true)
