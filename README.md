@@ -16,3 +16,5 @@ This infographic illustrates the percentage of adults who reported having sympto
 # The Lehigh-Lafayette Rivalry
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1gyuPpuC7cukOs0tZqWsn9Jh_dFSb5EVP9PoA7cpD8kY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 The primary source can be found [here](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette%E2%80%93Lehigh))
+# The History of the Brown and White
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pwVHYkZdEjEcCrjHXDq8134FF9l3ZSXnRMopQp31J6M&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
