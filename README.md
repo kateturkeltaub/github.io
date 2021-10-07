@@ -21,4 +21,5 @@ The primary source can be found [here](https://en.wikipedia.org/wiki/The_Rivalry
 
 Countries ranked by GDP
 This is a bar chart created using Chartbuilder showing the world's richest countries. Original data can be acccessed [here](https://docs.google.com/spreadsheets/d/1qbJrJCHazCpmDNhr1ny8PNyubjWthH5FWXPQ_0leT98/edit#gid=0). 
-https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/China_India_US_chartbuilder%20(1).png?raw=true
+(https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/China_India_US_chartbuilder%20(1).png?raw=true) 
+
