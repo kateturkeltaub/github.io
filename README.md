@@ -18,3 +18,7 @@ This infographic illustrates the percentage of adults who reported having sympto
 The primary source can be found [here](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette%E2%80%93Lehigh))
 # The History of the Brown and White
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pwVHYkZdEjEcCrjHXDq8134FF9l3ZSXnRMopQp31J6M&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+Countries ranked by GDP
+This is a bar chart created using Chartbuilder showing the world's richest countries. Original data can be acccessed [here](https://docs.google.com/spreadsheets/d/1qbJrJCHazCpmDNhr1ny8PNyubjWthH5FWXPQ_0leT98/edit#gid=0). 
+https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/China_India_US_chartbuilder%20(1).png?raw=true
