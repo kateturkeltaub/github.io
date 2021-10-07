@@ -27,6 +27,6 @@ This is a bar chart created using Chartbuilder showing the world's richest count
 
 # Lehigh Undergraduate Population by College
 
-This is a bar chart created using Chartbuilding showing the percentage of Lehigh University's undergraduate population by what college they are enrolled in. Original data can be accessed [here](https://www1.lehigh.edu/about/university-statistics)
+This is a bar chart created using Chartbuilding showing the percentage of Lehigh University's undergraduate population by what college they are enrolled in. Original data can be accessed [here](https://www1.lehigh.edu/about/university-statistics). 
 
 ![Lehigh Undergraduate Population by College](https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/Lehigh_Undergraduate_Student_Population_Within_Colleges_Percent_chartbuilder.png?raw=true)
