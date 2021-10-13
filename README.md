@@ -27,10 +27,11 @@ This is a bar chart created using Chartbuilder showing the world's richest count
 
 # Lehigh Undergraduate Population by College
 
-This is a bar chart created using Chartbuilding showing the percentage of Lehigh University's undergraduate population by what college they are enrolled in. Original data can be accessed [here](https://www1.lehigh.edu/about/university-statistics). This data shows that a majority of students are enrolled in the College of Arts and Sciences, with almost 40% of all undergrad being represented within it. The College of Health and the College of Arts & Engineering both make up just 1% of the undergraduate student body's distribution within colleges. The RCEAS and College of Business both make up around 25%, with Intercollegiate programs dropping below that at 11%. 
+This is a bar chart created using Chartbuilder showing the percentage of Lehigh University's undergraduate population by what college they are enrolled in. Original data can be accessed [here](https://www1.lehigh.edu/about/university-statistics). This data shows that a majority of students are enrolled in the College of Arts and Sciences, with almost 40% of all undergrad being represented within it. The College of Health and the College of Arts & Engineering both make up just 1% of the undergraduate student body's distribution within colleges. The RCEAS and College of Business both make up around 25%, with Intercollegiate programs dropping below that at 11%. 
 
 ![Lehigh Undergraduate Population by College](https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/Lehigh_Undergraduate_Student_Population_Within_Colleges_Percent_chartbuilder.png?raw=true)
 
 # South Sudan Population by Year
+This is a line chart created using Chartbuilder showing South Sudan's population growth been 2000 and 2020. Original data can be accessed [here](https://worldpopulationreview.com/countries/south-sudan-population). 
+![South Sudan Population by Year](https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/South_Sudan_Population_by_Year_Population_chartbuilder%20(1).png?raw=true)
 
-![South Sudan Population by Year](https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/South_Sudan_Population_by_Year_Population_chartbuilder%20(1).png?raw=true). 
