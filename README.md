@@ -33,4 +33,4 @@ This is a bar chart created using Chartbuilding showing the percentage of Lehigh
 
 # South Sudan Population by Year
 
-![South Sudan Population by Year](file:///Users/kateturkeltaub/Desktop/South_Sudan_Population_by_Year_Population_chartbuilder.svg). 
+![South Sudan Population by Year](https://raw.githubusercontent.com/kateturkeltaub/kateturkeltaub.github.io/5b90b3827ca374dd49a2862322f36cbd1f2f3b0b/South_Sudan_Population_by_Year_Population_chartbuilder.svg). 
