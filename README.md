@@ -33,5 +33,5 @@ This is a bar chart created using Chartbuilder showing the percentage of Lehigh 
 
 # South Sudan Population by Year
 This is a line chart created using Chartbuilder showing South Sudan's population growth been 2000 and 2020. Original data can be accessed [here](https://worldpopulationreview.com/countries/south-sudan-population). The chart shows extremely rapid population growth from 2000 until 2014. From 2014 to 2020, the population continues to grow but at a much slower rate than previously. Since 2000, the population of South Sudan close to doubled, starting around 6 million and increasing to 11.5 million. Continued population growth can be expected in coming years at a similar rate to that shown between 2014 and 2000. 
-![South Sudan Population by Year](https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/South_Sudan_Population_by_Year_Population_chartbuilder%20(1).png?raw=true)
+![South Sudan Population by Year](https://raw.githubusercontent.com/kateturkeltaub/kateturkeltaub.github.io/8be064f6e33bcc53cb52f9dbc08f7cff13da73aa/South_Sudan_Population_by_Year_Population_chartbuilder%20copy.svg)
 
