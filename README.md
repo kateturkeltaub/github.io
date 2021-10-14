@@ -38,3 +38,6 @@ This is a line chart created using Chartbuilder showing South Sudan's population
 # Percentage of students in each of Lehigh's three undergraduate colleges over the past five years
 ![Percentage of students in Lehigh's three undergraduate colleges](https://raw.githubusercontent.com/kateturkeltaub/kateturkeltaub.github.io/49556332a951c38907795c8b400365157e4f21cd/Percentage_of_students_in_Lehigh's_three_undergraduate_colleges_College_of_Arts_and_Sciences_Business_Engineering__chartbuilder.svg)
 This is a line chart illustrating the differences the percentage of enrollment between the three main undergraduate colleges at Lehigh, which are Arts and Sciences, Engineering, and Business. The chart shows a steady decrease in engineering students, while the percent of students enrolled in Arts and Sciences has increased. Business enrollment remains consistent, with a slight decrease in recent years. The decrease in engineering students and the increase in Arts and Sciences enrollment may be related, as they seem to correlate inversely. This data was compiled over the last five years, spanning from 2015 to 2021. The orignial data can be found [here](https://oirsa.lehigh.edu/university-profile).  
+
+# Self-reported Life Satisfaction vs GDP per capita, 2017
+![Self-reported Life Satisfaction vs GDP per capita, 2017]()
