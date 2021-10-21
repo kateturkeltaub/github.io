@@ -42,3 +42,8 @@ This is a line chart illustrating the differences the percentage of enrollment b
 # Self-reported Life Satisfaction vs GDP per capita, 2017
 ![Self-reported Life Satisfaction vs GDP per capita, 2017](https://raw.githubusercontent.com/kateturkeltaub/kateturkeltaub.github.io/aa3843d57c670a688d009cbdc81268b12ee265c2/Self-reported_Life_Satisfaction_vs_GDP_per_capita%2C_2017_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.svg)
 This is a scatter plot showing the relationship between life satisfaction and GDP per capita in a number of countries. The chart explains an overall positive correlation between the two variables. This data is important for assessing the life satisfaction of individuals, as well as allowing viewers to understand the importance that GDP plays in this. The most notable increase in life satisfaction is seen between 1.8 thousand dollars and 40.6 thousand dollars, with it equalizing more so before reaching 100 thousand dollars. The original data can be found [here](ourworldindata.org). This data gives us insight into the life satisfaction of individuals in other countries, and gives us a new perspective on the reality of life in nations with much a lower GDP per capita than we see here in the United States.  
+
+
+# 2019 World's Top 20 Cycling Cities
+[2019 World's Top 20 Cycling Cities]<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PKzPYVFsSm_o1TeFsphrZjXRdOvL3hYP" width="640" height="480"></iframe>
+Top 20 most bike-friendly cities on the planet, ranked by Wired. For more information, check out: https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/
