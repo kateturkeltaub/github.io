@@ -45,5 +45,5 @@ This is a scatter plot showing the relationship between life satisfaction and GD
 
 
 # 2019 World's Top 20 Cycling Cities
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PKzPYVFsSm_o1TeFsphrZjXRdOvL3hYP" width="640" height="480"></iframe>
+![Top 20 most bike-friendly cities on the planet, ranked by Wired. For more information, check out: https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/](<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PKzPYVFsSm_o1TeFsphrZjXRdOvL3hYP" width="640" height="480"></iframe>)
 Top 20 most bike-friendly cities on the planet, ranked by Wired. For more information, check out: https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/
