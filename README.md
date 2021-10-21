@@ -51,3 +51,5 @@ Top 20 most bike-friendly cities on the planet, ranked by Wired. For more inform
 # Top 5 Best College Towns in America
 ![Top 5 Best College Towns in America](<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1dpMpp7pTKZiI4guRLx2Mgrjcq410CTu_" width="640" height="480"></iframe>)
 These are the top 5 college towns in America, ranked by Best College Reviews. The rankings are based on livability, student-to-resident ratio, cultural offerings, school presence, and large employers. For more information, check out: https://www.bestcollegereviews.org/50-best-college-towns-america/
+
+These are the top 5 college towns in America, ranked by Best College Reviews. The rankings are based on livability, student-to-resident ratio, cultural offerings, school presence, and large employers. For more information, check out: https://www.bestcollegereviews.org/50-best-college-towns-america/
