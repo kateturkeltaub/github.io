@@ -4,7 +4,7 @@ kateturkeltaub.github.io
 
 [MY LINKED-IN](https://www.linkedin.com/in/kate-turkeltaub-0b199213a/)
 
-(https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/Screen%20Shot%202021-11-09%20at%2011.24.42%20AM.png?raw=true)  
+https://github.com/kateturkeltaub/kateturkeltaub.github.io/blob/main/Screen%20Shot%202021-11-09%20at%2011.24.42%20AM.png?raw=true
 
 ## Where do most Lehigh University undergraduate students live?
 This is an infographic illustrating where undergraduate students at Lehigh live, whether that be on-campus or off-campus. You can find the original data [HERE](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf). This information was gathered in the fall of 2019, and depicts the residence lives of the undergraduate population. With 48.3% of students living in residents halls, this appears to be the most common living space for undergraduates. Off-campus is composed of 38.7% of the undergraduate populatiom, making it the second most common. Lastly, fraternity houses (5.8%) and sorority houses (7.2%) are the least likely residence location of undergraduate students. This data can be used to assess where the most students live, as well as inform further research as to the quality of said residence life and why they breakdown is the way it is. 
